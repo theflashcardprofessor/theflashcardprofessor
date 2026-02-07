@@ -1,4 +1,4 @@
-<h1><b>theflashcardprofessor</b></h1>
+## theflashcardprofessor
 
 Make, create and edit flashcards
 
